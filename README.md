@@ -47,6 +47,7 @@ https://validator.w3.org/
 
 1. Склонуйте репозиторій:
    ```
-   git clone <посилання-на-репозиторій>
+   git clone https://github.com/KuHavoc/Front-End-Lab-1
    ```
 2. Відкрийте файл `index.html` у браузері.
+
